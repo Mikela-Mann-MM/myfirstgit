@@ -8,7 +8,7 @@ export function renderFooter() {
           <div class="footer-section">
             <h3>Contact</h3>
             <p><span class="contact-icon">✉</span> email@example.com</p>
-            <p><span class="contact-icon">☎</span> (123) 456-7890</p>
+            <p><span class="contact-icon">☎</span> (+45) 27570712</p>
           </div>
           
           <div class="footer-section">
@@ -16,7 +16,7 @@ export function renderFooter() {
             <div class="social-links">
               <a href="#" class="social-link">GitHub</a>
               <a href="#" class="social-link">LinkedIn</a>
-              <a href="#" class="social-link">Twitter</a>
+              <a href="#" class="social-link">Instagram</a>
             </div>
           </div>
           
