@@ -7,7 +7,7 @@ export function renderFooter() {
         <div class="footer-content">
           <div class="footer-section">
             <h3>Contact</h3>
-            <p><span class="contact-icon">✉</span> email@example.com</p>
+            <p><span class="contact-icon">✉</span> mikelamann1@gmail.com</p>
             <p><span class="contact-icon">☎</span> (+45) 27570712</p>
           </div>
           
@@ -27,7 +27,7 @@ export function renderFooter() {
         </div>
         
         <div class="copyright">
-          © ${new Date().getFullYear()} | Front-End Developer Portfolio
+          © ${new Date().getFullYear()} | MIKELA MANN Front-End Developer Portfolio
         </div>
       </footer>
     `

@@ -366,4 +366,4 @@ export function renderInteractiveTechStack() {
           
           // Apply filter
           document.querySelectorAll('.tech-node').forEach(node => {
-            if (filter === 'all' || node.classList.
+            if (filter === 'all' || node.classList);

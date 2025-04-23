@@ -23,50 +23,80 @@ document.querySelector('#app').innerHTML = `
       <section class="about">
         <h2 class="section-title">About Me</h2>
         <div class="about__content">
-          <p>I'm a passionate front-end developer with a unique blend of creative design intuition and technical expertise. My journey in web development began with a curiosity about how digital experiences are crafted, and has evolved into mastering the art of building elegant, responsive, and performant web applications.</p>
-          
-          <p>With expertise in modern JavaScript frameworks and a keen eye for design, I specialize in transforming complex requirements into intuitive interfaces. I thrive on the challenge of optimizing user experiences and find satisfaction in crafting clean, efficient code that scales.</p>
-          
-          <p>What sets me apart is my commitment to creating seamless connections between front-end interfaces and back-end systems. I believe in building holistic solutions where every pixel and function serves a purpose. Whether implementing pixel-perfect designs or architecting robust application logic, I approach each project with meticulous attention to detail and a drive for excellence.</p>
-          <p># Professional Bio: Front-End Developer
+         <p># Professional Bio: Front-End Developer</p>
 
-## Summary
+<p>## Summary
 I'm a results-driven Front-End Developer with a passion for creating immersive digital experiences that combine aesthetic appeal with technical excellence. Specializing in modern JavaScript frameworks and responsive design, I bridge the gap between creative vision and technical implementation. My unique background in both design and development allows me to approach problems holistically, delivering solutions that are both beautiful and functional.
-
+</p>
+<p>
 ## Core Technical Skills
-
+</p>
+<p>
 ### Front-End Technologies
+</p>
+<p>
 - **HTML5/CSS3/JavaScript**: Expert-level proficiency, with deep understanding of modern ES6+ features
+</p>
+<p>
 - **CSS Frameworks**: Advanced implementation of SCSS/SASS for creating scalable styling architectures
+</p>
+<p>
 - **UI Frameworks**: Currently mastering React ecosystem & Tailwind CSS for efficient development
+</p>
+<p>
 - **Responsive Design**: Creating adaptive interfaces that provide optimal experiences across all devices
+</p>
+<p>
 - **Performance Optimization**: Implementing advanced techniques for lightning-fast load times
-
+</p>
+<p>
 ### Back-End Integration
+</p>
+<p>
 - **API Development**: Building robust REST APIs with Express
+</p>
+<p>
 - **Database Management**: Data modeling and query optimization with SQLite
+</p>
+<p>
 - **Server-Side Logic**: Creating efficient middleware and authentication systems with Node.js
+</p>
+<p>
 - **Full-Stack Integration**: Seamless connection between front-end interfaces and back-end services
-
+</p>
+<p>
 ## Professional Approach
 My development philosophy centers around three core principles:
-
+</p>
+<p>
 1. **User-Centric Design**: Every line of code I write serves to enhance the user experience, with careful attention to accessibility, performance, and intuitive interaction.
-
+</p>
+<p>
 2. **Technical Excellence**: I maintain high standards for code quality, with emphasis on clean architecture, thorough documentation, and comprehensive testing.
-
+</p>
+<p>
 3. **Continuous Learning**: The tech landscape evolves rapidly, and I stay at the forefront by constantly experimenting with emerging technologies and expanding my skill set.
-
+</p>
+<p>
 ## What Sets Me Apart
 Beyond technical skills, I bring a unique perspective to development projects:
-
+</p>
+<p>
 - **Problem-Solving Mindset**: I approach challenges with creativity and analytical thinking
+</p>
+<p>
 - **Attention to Detail**: I believe the difference between good and great lies in the details
+</p>
+<p>
 - **Collaborative Spirit**: I thrive in team environments, communicating effectively with designers, product managers, and fellow developers
+</p>
+<p>
 - **End-to-End Capability**: With both front-end expertise and back-end knowledge, I can develop complete solutions independently
-
+</p>
+<p>
 I'm constantly pushing the boundaries of what's possible on the web, creating experiences that are not just functional but memorable. Whether optimizing performance, crafting pixel-perfect interfaces, or architecting complex systems, I approach each project with passion and precision.</p>
-        </div>
+</p>
+  </div>
       </section>
       
       <section class="skills">

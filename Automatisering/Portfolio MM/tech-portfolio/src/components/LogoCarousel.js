@@ -11,9 +11,12 @@ export function renderLogoCarousel() {
       { name: 'REST API', color: '#61DAFB' },
       { name: 'Express', color: '#000000' },
       { name: 'Node', color: '#3c873a' },
+      { name: 'Vite', color: '#3c878d' },
+      { name: 'Vitest', color: '#3c654a' },
       { name: 'JavaScript', color: '#f7df1e' },
       { name: 'React', color: '#61DAFB' },
       { name: 'Tailwind', color: '#06B6D4' },
+      { name: 'Wordpress', color: '#264de4' },
     ]
     
     logoCarousel.innerHTML = `
