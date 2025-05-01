@@ -27,7 +27,7 @@ export function renderFooter() {
         </div>
         
         <div class="copyright">
-          © ${new Date().getFullYear()} | MIKELA MANN Front-End Developer Portfolio
+          © ${new Date().getFullYear()} | MIKELA MANN 
         </div>
       </footer>
     `
